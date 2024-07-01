@@ -1,11 +1,11 @@
 # Analysis-of-mobile-signal-strength
 
 # Analyzing Mobile Signal Strength and Enhancing Network Performance
-![Home Page Image](Images/signals.png)
+![Home Page Image](Images/cell.png)
 
 # Introduction
-The evolution of mobile communication from 2G to 5G signifies remarkable advancements in speed, capacity, and connectivity. In our interconnected world, mobile devices have become indispensable, supporting various functions. Despite technological strides, challenges like dropped calls, slow data speeds, and connectivity gaps persist.
-In this project, we tackled these challenges head-on, aiming to optimize mobile connectivity. This document provides an overview of our objectives, methodologies, findings, application demonstration, and recommendations. Additionally, you'll find a video link included to showcase the aesthetical usage of the web application we've built.
+The evolution of mobile communication from 2G to 5G signifies remarkable advancements in bandwidth, spectrum efficiency, and network latency. In our interconnected world, mobile devices have become indispensable, supporting various applications and services. Despite these technological strides, challenges such as call drops, low data throughput, and coverage gaps persist.
+In this project, we addressed these issues head-on, aiming to enhance mobile network performance. This document provides an overview of our objectives, methodologies, findings, implementation details, and recommendations. Additionally, a video link is included to showcase the graphical user interface (GUI) and functionalities of the web application we developed.
 
 # Objectives
 * Conduct in-depth analysis of mobile signal strength data.
@@ -16,14 +16,22 @@ In this project, we tackled these challenges head-on, aiming to optimize mobile 
 * Improve network performance using data-driven recommendations.
 
 # Tools Used
+# Development Environment:
 * Jupyter Notebook (Python)
-* Matplotlib, Seaborn, Pandas, Numpy
-* Folium, Datetime, Math
-* Plotly.graph_objects, Plotly.express
-* Scipy.fft, Requests, Json, Random
-* Geopandas, Contextily, Statsmodels.api, Pyspark
-* Kepler.gl, Streamlit
 * Visual Studio Code (VS Code)
+# Data Analysis and Manipulation:
+* Pandas
+* Numpy
+# Data Visualization:
+* Matplotlib
+* Seaborn
+* Plotly (Plotly.graph_objects, Plotly.express)
+# Geospatial Analysis:
+* Geopandas
+* Contextily
+# Web Application Development:
+* Streamlit
+
 
 # My Role
 ## My contributions to this project include:
@@ -32,9 +40,8 @@ In this project, we tackled these challenges head-on, aiming to optimize mobile 
 * Conducted geospatial and time series analysis for valuable insights.
 * Managed project progress with Trello.
 * Developed the Exploratory Data Analysis page on Streamlit.
-* Deployed the Streamlit web app on AWS.
 * Assisted in the documentation of the project in a comprehensive white paper.
-* Presented the application's usage and functionality to stake holders and the general audience.
+* Involved in presenting the project to stakeholders and the general audience.
 
  # Project Highlights
  Here are some of the project highlights, 
