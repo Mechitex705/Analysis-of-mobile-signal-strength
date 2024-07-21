@@ -118,7 +118,7 @@ While acknowledging project limitations, we concluded with a set of recommendati
 -  **Ajirioghene Oguh** (Data Scientist).
 -  **Aldo Sauls** (Data Engineer).
 -  **Monde Nkuna** (Data Engineer).
--  **Amaechi Ngwoke** (Data Scientist).
+-  **Samson Ayankunle** (Data Scientist).
 -  **Ayodele Marcus** (Data Scientist).
 -  **Confidence Ogbonna** (Data Scientist).
 -  **Funmani Thibela** (Data Scientist).
