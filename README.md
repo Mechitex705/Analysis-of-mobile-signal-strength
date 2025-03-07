@@ -35,7 +35,6 @@ In this project, we addressed these issues head-on, aiming to enhance mobile net
 
 # My Role
 ## My contributions to this project include:
-* Consolidated raw datasets from AWS S3 into an accessible format.
 * Analyzed mobile signal data, including signal power, quality, and signal-to-interference plus noise ratio.
 * Conducted geospatial and time series analysis for valuable insights.
 * Managed project progress with Trello.
